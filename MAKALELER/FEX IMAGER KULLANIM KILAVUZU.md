@@ -1,6 +1,6 @@
 # FEX IMAGER KULLANIM KILAVUZU
 
-**[İçeriğin orijinalini görmek için linke tıklayın]([https://medium.com/@aysenurdgyl/chat-gpt-geli%CC%87%C5%9Fti%CC%87ri%CC%87ci%CC%87-moda-ge%C3%A7me-2a1d2e1b48b2](https://medium.com/@aysenurdgyl/fex-imager-kullanim-kilavuzu-e3c0c4ac03a0))**
+**[İçeriğin orijinalini görmek için linke tıklayın]([https://medium.com/@aysenurdgyl/chat-gpt-geli%CC%87%C5%9Fti%CC%87ri%CC%87ci%CC%87-moda-ge%C3%A7me-2a1d2e1b48b2](https://medium.com/@aysenurdgyl/fex-imager-kullanim-kilavuzu-e3c0c4ac03a0)**
 
 ---
 
