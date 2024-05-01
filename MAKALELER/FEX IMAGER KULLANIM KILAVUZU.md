@@ -135,3 +135,4 @@ Connect kısmında bağlantı bilgileri girilir. Speed test hız testini görebi
 **Port:** Bağlanılacak olan port bilgisi verilir.
 
 **Use Compression:** Sıkıştırma kullanılan kısım.
+
