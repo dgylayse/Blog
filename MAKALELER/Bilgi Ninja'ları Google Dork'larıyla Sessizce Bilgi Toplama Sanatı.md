@@ -1,8 +1,18 @@
 # Bilgi Ninja'ları: Google Dork'larıyla Sessizce Bilgi Toplama Sanatı
 
+**[İçeriğin orijinalini görmek için linke tıklayın](https://sibermetin.com/googledork)**
+
+---
+
+Google Dork konusunun önemini eğlenceli bir şekilde ele almak istedim umarım okurken keyif alırsınız. İyi okumalar...
+
+![resim](https://sibermetin.com/uploads/images/202403/image_750x_65f8a32659264.jpg)
+
 Sanal dünyanın derinliklerinde sessizce kaybolan gölgeler var. Onlar, bilgiyi avlamak için sıradan arama motorlarına değil, **Google Dork**'larına güvenen gizli bilgi savaşçıları. Adımlarını özenle gizleyen bu bilgi ninjaları, siber uzayın perde arkasında sessizce dolaşırken, bilgi hazinelerini ustalıkla çıkarıyorlar. Onların hedefi, sadece bilgiyi ele geçirmek değil, aynı zamanda herhangi bir iz bırakmadan geri çekilmek. Bu, sıradan bir bilgi avı değil; bu, Google Dork'ları aracılığıyla yapılan sessiz, gizli bir bilgi toplama sanatı. Bu yazıda, bu gizemli bilgi ninjalarının ustalıkla yürüttüğü bu sanatı yakından inceleyeceğiz. Hazır olun, çünkü sessizlik içinde siber dünyanın derinliklerine dalacağız.
 
 ## Baxter Stockman'ın Siber Kalesini Hacklemek
+
+![resim](https://sibermetin.com/uploads/images/202403/image_750x_65f8b07be99da.jpg)
 
 Bilgi ninjaları, dünyanın en karanlık sularında seyahat eden tehlikeli bir siber korsan olan Baxter Stockman'ın Siber Kalesi'ni ele geçirmek için özel bir göreve atanmıştı. Stockman, dünya çapında kaos ve kargaşa yaratmak için geliştirdiği gizli bir ağı kullanıyordu ve bu ağın sırlarını ortaya çıkarmak bilgi ninjalarının öncelikli göreviydi.
 
@@ -22,7 +32,11 @@ Bilgi ninjaları, dünyanın en karanlık sularında seyahat eden tehlikeli bir 
 
 Bilgi ninjaları, bu operatörleri kullanarak Stockman'ın Siber Kalesi'ni hacklemek için derinlemesine bir araştırma yürüttüler ve kritik bilgilere ulaşmak için gerekli adımları attılar.
 
+![resim](https://sibermetin.com/uploads/images/202403/image_750x_65f8b07d974e4.jpg)
+
 Bilgi ninjaları, bu dikkatli araştırma ve Google Dork yöntemlerinin kullanımıyla Stockman'ın Siber Kalesi'nin gizli sırlarına yaklaştılar. Her adımda daha fazla bilgiye ulaşarak, Stockman'ın karanlık faaliyetlerini ortaya çıkarmak için kararlı bir şekilde ilerlediler. Ancak, bu araştırma sadece Stockman'ın Siber Kalesi'ne sızmanın bir aşamasıydı.
+
+![resim](https://sibermetin.com/uploads/images/202403/image_750x_65f8b07ecc3ea.jpg)
 
 Sonunda, bilgi ninjaları, elde ettikleri bilgilerle Stockman'ın Siber Kalesi'ne başarılı bir şekilde sızdılar ve karanlık operasyonlarını durdurmayı başardılar. Ancak, bu zaferin anahtarı Google Dork'un gücü ve esnekliğiydi. Google Dork, sadece bilgi ninjalarının Stockman'ın Siber Kalesi'ne sızmasına yardımcı olmakla kalmadı, aynı zamanda onlara düşmanlarını alt etmek için gerekli olan bilgileri sağladı.
 
